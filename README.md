@@ -3,5 +3,6 @@
 Going on holiday confident Santa will have a problem free 
 [Advent of Code 2020](https://adventofcode.com/2020)
 
-[[aoc19](https://github.com/codybartfast/aoc19)] <- [aoc20]
--> [[aoc21]](https://github.com/codybartfast/aoc21)
+
+[Primary Source](https://git.sr.ht/~codybartfast/aoc-2020)  
+[Other Events](https://sr.ht/~codybartfast/aoc/sources)
